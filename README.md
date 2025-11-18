@@ -3,7 +3,7 @@ NOS-IR: Information Retrieval Executed on the Nuijens Operating System (NOS)
 Authors: S.R. Cromelin, J.L. Nuijens
 Nuijens Operating System Collective
 
-NOS-IR is the implementation framework for performing information retrieval directly on the Nuijens Operating System (NOS) — a dual-hemisphere, inverse-spherical computational geometry with native resolution R = 512 and a 720° cycle.
+NOS-IR is the implementation framework for performing information retrieval directly on the Nuijens Operating System (NOS): a dual-hemisphere, inverse-spherical computational geometry with native resolution R = 512 and a 720° cycle.
 
 Rather than treating text as points in a vector space, NOS-IR compiles information into phase-geometric identities on the DH¹ dual-hemisphere sphere. Retrieval is executed as inverse-state resonance, inherited directly from the NOS kernel.
 
